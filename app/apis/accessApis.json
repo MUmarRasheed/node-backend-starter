@@ -1,0 +1,21 @@
+{
+    "superAdmin": {
+      "post": [],
+      "get": [],
+      "put": [],
+      "delete": []
+    },
+    "admin": {
+      "post": [],
+      "get": [],
+      "put": [],
+      "delete": []
+    },
+    "user": {
+      "post": ["login", "register-user"],
+      "get": [],
+      "put": [],
+      "delete": []
+    }
+  }
+  

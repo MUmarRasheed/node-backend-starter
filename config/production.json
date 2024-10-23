@@ -1,0 +1,6 @@
+{
+    "PORT": 5003,
+    "MONGOCONNECTION": "mongodb://127.0.0.1:27017/databaseName?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.7.1",
+    "pageSize": 10,
+    "salt": 10
+}
